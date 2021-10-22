@@ -249,3 +249,7 @@ td {
 .last {
   color: #00c6f2;
 }
+.carousel-text {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 900;
+}
